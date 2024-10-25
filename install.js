@@ -5,7 +5,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          "git clone https://github.com/ai-anchorite/Allegro-txt2vid.git app",
+          "git clone https://huggingface.co/spaces/AI-Anchorite/allegro-text2video app",
         ]
       }
     },

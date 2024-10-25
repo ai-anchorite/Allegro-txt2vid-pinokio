@@ -1,7 +1,7 @@
 const path = require('path')
 module.exports = {
   version: "2.0",
-  title: "Allegro-text2video",
+  title: "Allegro-txt2vid",
   description: "",
   icon: "icon.png",
   menu: async (kernel, info) => {

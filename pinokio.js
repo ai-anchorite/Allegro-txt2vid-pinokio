@@ -10,7 +10,7 @@ module.exports = {
       install: info.running("install.js"),
       start: info.running("start.js"),
       update: info.running("update.js"),
-      reset: info.running("reset.js")
+      reset: info.running("reset.js"),
 	  cache: info.running("delete-cache.js")
     }
     if (running.install) {

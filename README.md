@@ -8,7 +8,9 @@ A Pinokio Install Script for the [Rhymes Allegro](https://github.com/rhymes-ai/A
 ## Important Notes
 * Takes an hour to generate a result. 1 hour. hopefully will be optimized, but yeah. 1 hour (on a 3090). 
 * My GPU warms me at night. 
-* 12GB VRAM is sufficient though. (1 hour. txt2video so mostly luck as to what you get at the end).
+* 12GB VRAM should be sufficient though. (1 hour. txt2video so mostly luck as to what you get at the end).
+* After the inference Steps have completed, there's a vae decode phase that can take quite a while. So don't panic and stop it prematurely!
 * I can't stop clicking the go button..
 
-*Note: This is a throwaway preview build based on Rhymes' original code (tested on H100s).*
+* Img2vid is in the works apparently: https://github.com/rhymes-ai/Allegro/issues/8
+* Yes, it's not (yet) optimized for consumer GPUs: https://github.com/rhymes-ai/Allegro/issues/20

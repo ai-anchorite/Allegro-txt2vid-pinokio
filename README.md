@@ -14,3 +14,6 @@ A Pinokio Install Script for the [Rhymes Allegro](https://github.com/rhymes-ai/A
 
 * Img2vid is in the works apparently: https://github.com/rhymes-ai/Allegro/issues/8
 * Yes, it's not (yet) optimized for consumer GPUs: https://github.com/rhymes-ai/Allegro/issues/20
+
+
+![2024-10-26 16-54-31](https://github.com/user-attachments/assets/80a55090-36fa-4400-ad38-92f1d7f90b11)

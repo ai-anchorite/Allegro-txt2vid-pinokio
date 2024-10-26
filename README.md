@@ -16,6 +16,7 @@ A Pinokio Install Script for the [Rhymes Allegro](https://github.com/rhymes-ai/A
 * Yes, it's not (yet) optimized for consumer GPUs: https://github.com/rhymes-ai/Allegro/issues/20
 
 
-![image](https://github.com/user-attachments/assets/e528eae4-1bc4-41cf-af20-58fe0affe36a)
+![image](https://github.com/user-attachments/assets/d25878c1-a691-4b5b-b0a5-545a988f9450)
+
 
 
